@@ -10,6 +10,20 @@
 <img src="picture/Windows日志一把梭4.gif" />  
 
 ## 更新  
+
+### 2024/6/7 1.0.0.9  
+
+- 增加筛选建议  
+- 增加事件资源展示功能  
+- 丰富内置规则  
+
+File: BaoGuaWindowsEvent.exe  
+Size: 1539248 bytes  
+File Version: 1.0.0.9  
+MD5: E6552C948955C81DE4499CB061B9BE74  
+SHA1: 731E44071D3FD7B179BAC5B68155F73AECD3FE6D  
+CRC32: 108A0DDD  
+
 ### 2024/5/20 1.0.0.8  
 - 优化日志解析界面
 - 优化自定义规则
@@ -50,5 +64,4 @@ File Version: 1.0.0.2
 MD5: 34E89F8AFB4DC400C622EDB0AACC3CAC  
 SHA1: AA26147DFD38994320421500CF0E16DFE35A1C3D  
 CRC32: 0C38ED6F  
-
 
