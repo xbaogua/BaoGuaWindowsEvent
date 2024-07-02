@@ -11,6 +11,17 @@
 
 ## 更新  
 
+### 2024/7/2 1.0.1.2
+- 优化一些内置规则   
+- 规则模式增加全部规则选项，感谢KingLann建议  
+
+File: BaoGuaWindowsEvent.exe  
+Size: 1945470 bytes  
+File Version: 1.0.1.2  
+MD5: F2CAC33398E12E3DC24579178D0109C4  
+SHA1: 6E8C08F5B4E95B4AE190CF2F86D588D0D275BE6F  
+CRC32: 5D83846D  
+
 ### 2024/6/21 1.0.1.1  
 - 修复一些bug  
 - 优化事件资源展示界面  
